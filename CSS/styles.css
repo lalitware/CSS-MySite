@@ -1,0 +1,110 @@
+body{
+    color: #40514e;
+    background-color: white;
+    text-align: center;
+}
+h1{
+    font-family: 'Italianno', cursive;
+    font-size: 5.62rem;   
+}
+h1, h2{
+    color: #0a6969;
+}
+h3{
+    color: #0a6969;
+}
+a{
+    color: #325b5e;
+    margin: 40px 30px; 
+    text-decoration: none; 
+}
+a:hover{
+    color: white;
+}
+.dev{
+    font-weight: normal;
+}
+.intro{
+    width: 30%;
+    margin: auto;
+    line-height: 2;
+}
+hr{
+    border: dotted #eaf6f6 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 50px auto 50px auto;
+}
+.comp-img{
+    border-radius: 100%;
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+.chillies-img{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+.top-container{
+        background-color: #63B4B8;
+        margin: -8px -8px;
+        position: relative;
+        padding-top: 100px;
+}
+.middle-container{
+    position: relative;
+    margin-top: 20px ; 
+}
+.bottom-container{
+    background-color: #63B4B8;
+    margin: 50px auto 0;
+    padding: 15px 0 5px;
+}
+.bottom-cloud{
+    position:absolute;
+    left: 300px;
+}
+.top-cloud{
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+.lalit-image{
+    border-radius: 100%;
+}
+.help-desc{
+    width: 30%;
+    margin: 40px auto 60px;
+    line-height: 2;
+}
+.btn{
+    display: inline-block;
+    margin: 0 auto 0 auto;
+    font-size: 20px;
+    font-family:Arial;
+    width: 200px;
+    height: 40px;;
+    border-width: 10px;
+    padding: 20px 0 0 0;
+    color:#fff;
+    border-color:#63B4B8;
+    font-weight: bold;
+    border-radius: 28px;
+    text-shadow: 1px 1px 0px #63B4B8;
+    background:#63B4B8;
+    text-decoration: none;
+  }
+  .btn:hover {
+    background: #7de3e9;
+  }
+  .copyright{
+      color: white;
+  }
+                
